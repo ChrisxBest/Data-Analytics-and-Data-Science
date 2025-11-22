@@ -1,5 +1,5 @@
-This repo is split in 2 parts. 
+This repo contains machine learning models and projects and is based on supervised learning.
+The focus is set on regression and classification algorithms.
+In addition to that, outlier detection as part of EDA is beeing added. 
 
-  1st part: Data Science based on Machine Learning, more specific: Supervised learning.
-
-  2nd part: Data Analytics based on mainly SQL, Excel, Power BI.
+Unsupervised learning like clustering and dimensionality reduction will be added soon.
